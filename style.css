@@ -203,7 +203,7 @@ a {
 
   100% {
     opacity: 0.96;
-    transform: translate3d(var(--drift), calc(112vh - var(--landing-bottom)), 0) rotate(360deg) scale(1.08);
+    transform: translate3d(var(--drift), calc(112vh - var(--landing-bottom) - 1em), 0) rotate(360deg) scale(1.08);
   }
 }
 
